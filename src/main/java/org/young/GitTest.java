@@ -7,5 +7,6 @@ public class GitTest {
             System.out.print("=");
         }
         System.out.println("\n" + s);
+        System.out.println("branch_cow did some change...");
     }
 }
